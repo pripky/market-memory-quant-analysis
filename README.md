@@ -22,7 +22,7 @@ This repository provides an interactive, data-driven environment demonstrating t
 * **The Reality:** Risk is not constant; it aggregates into distinct, high-density regimes. The structural shifts are highly visible during major macroeconomic disruptions such as the 2008 Global Financial Crisis and the 2020 COVID-19 crash.
 
 <p align="center">
-  <img src="images/newplot_(1).png" alt="Annualized Rolling Volatility Timeline" width="70%">
+  <img src="images/newplot (1).png" alt="Annualized Rolling Volatility Timeline" width="70%">
 </p>
 
 ### 📊 The Autocorrelation (ACF) Face-Off
@@ -30,7 +30,7 @@ This repository provides an interactive, data-driven environment demonstrating t
 * **Absolute Returns (Right):** Conversely, price magnitudes shatter the noise threshold. Every single lag across the trading month stays heavily positive ($\sim0.25$ to $0.35$), providing definitive empirical validation for conditional variance models like GARCH.
 
 <p align="center">
-  <img src="images/newplot_(2).png" alt="Autocorrelation Function Face-Off" width="90%">
+  <img src="images/newplot (2).png" alt="Autocorrelation Function Face-Off" width="90%">
 </p>
 
 ---
